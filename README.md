@@ -20,13 +20,13 @@ The company is looking at prospective properties to buy to enter the market. A m
     - GrLivArea - Above grade (ground) living area square feet
     - OverallQual - Rates the overall material and finish of the house
     - GarageArea - Size of garage in square feet
-    - MSSubClass - Identifies the type of dwelling involved in the sale.
+    - LotArea - Lot size in square feet
     - Neighborhood - Physical locations within Ames city limits
     - YearRemodAdd - Remodel date (same as construction date if no remodeling or additions)
     - YearBuilt - Original construction date
-    - FullBath - Full bathrooms above grade
-    - BsmtFullBath - Basement full bathrooms
-    - HalfBath - Half baths above grade
+    - Fireplaces - Number of fireplaces
+    - OverallCond - Rates the overall condition of the house
+    - BsmtFinSF1 - Type 1 finished square feet
 
 - Below are the optimum lambda values
     - Ridge - 100
